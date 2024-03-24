@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 ### Work
 
-I am currently working in **Nokia networks**
-
-I was previously working with Subex (2012-14) and Infosys (2010-12)
-
 Mostly writing in **Java**, sometimes in **Python**, attempting to learn **Go**
 
 Recent highlights:
@@ -42,10 +38,8 @@ Open Source:
 - Othertimes i spend time on lichess.org
 
 ---
-### Connect
-- [Linkedin](https://www.linkedin.com/in/gauchy/)
-- [Leetcode](https://leetcode.com/gauchy/)
-- [Lichess](https://lichess.org/@/ashwinirai13)
+
+
   
 
 
